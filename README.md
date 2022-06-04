@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/70505378/171992084-b523a54e-76bb-44b6-b609-f13652eb09ee.png)  
 
 <br>
-데이터셋에 존재하는 labeling 오류, image format 오류 등의 잘못된 데이터에 대해 **data cleansing**
+데이터셋에 존재하는 labeling 오류, image format 오류 등의 잘못된 데이터에 대해 **data cleansing** 
 
 ![image](https://user-images.githubusercontent.com/70505378/171999373-917814ea-4cb0-470e-8ab3-9c6f14fc05e8.png)
 
